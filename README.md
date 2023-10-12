@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R33Keeper
-- 👀 I’m interested in gaming, network and cloud security/engineering
-- 🌱 I’m currently learning CompTIA certifications (A+, Sec+, Net+, Cloud+, etc.) Cybersecurity, Python, C/C++
-- 💞️ I’m looking to collaborate on any projects utilizing python or C++ to help grow my experience/build a portfolio
+- 👀 I’m interested in gaming, Linux, web development, cybersecurity and AI.
+- 🌱 I’m currently trying to enter the Tech industry as a helpdesk person before moving on to Linux admin stuff.
+- 💞️ I’m looking to collaborate on any projects involving python, AI, Linux, cybersecurity and anything fun or interesting. 
 - 📫 Contact info pending...
 
 
