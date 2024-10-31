@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @R33Keeper
-- 👀 I’m interested in gaming, Linux, web development, cybersecurity and AI.
-- 🌱 I’m currently trying to enter the Tech industry as a helpdesk person before moving on to Linux admin stuff.
-- 💞️ I’m looking to collaborate on any projects involving python, AI, Linux, cybersecurity and anything fun or interesting. 
-- 📫 Contact info pending...
+- 🌱 I’m working on a visual novel/dating sim with friends.
 
 
 
